@@ -1,6 +1,7 @@
-Stock Trading Platform (Prototype)
+Project_title: Stock Trading Platform (Prototype)
 
-This is an unfinished stock trading platform built using Python and PyQt5 for the user interface.
+
+Project_description: This is an unfinished stock trading platform built using Python and PyQt5 for the user interface.
 It is designed to provide a foundation for a modern trading application that connects with external data sources, simulates demo trades, and manages user portfolios.
 
 Project Status
