@@ -1,4 +1,4 @@
-#Stock Trading Platform (Prototype)
+# Stock Trading Platform (Prototype)
 
 ## Project_description
 This is an unfinished stock trading platform built using Python and PyQt5 for the user interface.<br />
