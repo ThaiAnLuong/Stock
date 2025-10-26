@@ -1,0 +1,19 @@
+{
+    "files": [
+        "portfolio.ui",
+        "portfolio.py",
+        "findStock.py",
+        "signup.ui",
+        "visualization.ui",
+        "loginManagement.py",
+        "login.ui",
+        "userManagement.py",
+        "findStockService.py",
+        "main.py",
+        "../Thais UI/sign_up.ui",
+        "stockprice.ui",
+        "visualization.py",
+        "serviceRegistry.ui",
+        "stockVisualizationService.py"
+    ]
+}

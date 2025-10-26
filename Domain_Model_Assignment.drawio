@@ -1,0 +1,193 @@
+<mxfile host="app.diagrams.net" modified="2023-11-24T18:18:27.729Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="j1pEgtR8CkohVYdAVvpT" version="22.1.3" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1877" dy="1735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="HubGlmVLbbdRwThOcGea-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zkfFHV4jXpPFQw0GAbJ--0" target="ELn9--_oTHY5DJMmRH25-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint y="620" />
+              <mxPoint x="-85" y="620" />
+              <mxPoint x="-85" y="473" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HubGlmVLbbdRwThOcGea-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zkfFHV4jXpPFQw0GAbJ--0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="129.66666666666697" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zkfFHV4jXpPFQw0GAbJ--0" value="Quality Attribute&#xa;Ch 3&#xa;" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry y="620" width="520" height="246" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zkfFHV4jXpPFQw0GAbJ--1" value="Name" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
+          <mxGeometry y="40" width="520" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="zkfFHV4jXpPFQw0GAbJ--4" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
+          <mxGeometry y="66" width="520" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="HubGlmVLbbdRwThOcGea-3" value="·    Functionality does not determine architecture.&#xa;·    Quality attributes stand on their own; they pertain to the functions of the system.&#xa;·    Each attribute community has developed its own vocabulary.&#xa;·    We capture quality attribute requirements as six-part scenarios.&#xa;·    Tactics like patterns re design techniques that architects what have been used for years" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=11;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--0">
+          <mxGeometry y="74" width="520" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="zkfFHV4jXpPFQw0GAbJ--5" value="·    Functionality does not determine architecture.&#xa;·    Quality attributes stand on their own; they pertain to the functions of the system.&#xa;·    Each attribute community has developed its own vocabulary.&#xa;·    We capture quality attribute requirements as six-part scenarios.&#xa;·    Tactics like patterns re design techniques that architects what have been used for years" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=11;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
+          <mxGeometry y="160" width="520" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="ELn9--_oTHY5DJMmRH25-1" value="Availability &#xa;Ch 4&#xa;" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry y="920" width="520" height="360" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ELn9--_oTHY5DJMmRH25-2" value="Name" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ELn9--_oTHY5DJMmRH25-1" vertex="1">
+          <mxGeometry y="40" width="520" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ELn9--_oTHY5DJMmRH25-3" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="ELn9--_oTHY5DJMmRH25-1" vertex="1">
+          <mxGeometry y="66" width="520" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="ELn9--_oTHY5DJMmRH25-4" value="·    The heartbeat detection mechanism employs a periodic message exchange between a system monitor and a process being monitored.&#xa;·    The timestamp tactic is used to detect incorrect sequences of events, primarily in distributed message-passing systems.&#xa;·    The timeout tactic is a tactic that raises an exception when a component detects that it or another component has failed to meet its timing constraints.&#xa;·    A failure occurs when the system no longer delivers a service that is consistent with its specification and this failure is observable by the system’s actors.&#xa;·    Availability tactics, in turn, are designed to enable a system to prevent or endure system faults so that a service being delivered by the system remains compliment with its specification.&#xa;·    Availability tactics have one of three purposes: fault detection, fault recovery, or fault prevention.&#xa;·    The most commonly desired response is to prevent the fault from becoming a failure, but other responses may also be important.&#xa;·    In the Ping/echo tactic an async request/response message pair is exchanged between nodes, it is used to determine reachability and the round-trip delay through the associated network path.&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" parent="ELn9--_oTHY5DJMmRH25-1" vertex="1">
+          <mxGeometry y="74" width="520" height="286" as="geometry" />
+        </mxCell>
+        <mxCell id="ELn9--_oTHY5DJMmRH25-5" value="Modifiability&#xa;Ch 8&#xa;" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-690" y="420" width="520" height="180" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ELn9--_oTHY5DJMmRH25-6" value="Name" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ELn9--_oTHY5DJMmRH25-5" vertex="1">
+          <mxGeometry y="40" width="520" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ELn9--_oTHY5DJMmRH25-7" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="ELn9--_oTHY5DJMmRH25-5" vertex="1">
+          <mxGeometry y="66" width="520" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="ELn9--_oTHY5DJMmRH25-8" value="•    Deferred binding can allow a system to make the changes without human intervention. Such as a parameterized function.&#xa;•    Low coupling vs high cohesion&#xa;•    Modifiability and performance can be in contention&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" parent="ELn9--_oTHY5DJMmRH25-5" vertex="1">
+          <mxGeometry y="74" width="520" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="ELn9--_oTHY5DJMmRH25-9" value="Performance&#xa;Ch 9&#xa;" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-690" y="620" width="520" height="160" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ELn9--_oTHY5DJMmRH25-10" value="Name" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ELn9--_oTHY5DJMmRH25-9" vertex="1">
+          <mxGeometry y="40" width="520" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ELn9--_oTHY5DJMmRH25-11" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="ELn9--_oTHY5DJMmRH25-9" vertex="1">
+          <mxGeometry y="66" width="520" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="ELn9--_oTHY5DJMmRH25-12" value="•    To handle resource demand, you can either managed the resource, or control the demand for the resource.&#xa;•    Concurrency can speed up a system when there is no contention, but there is blocking.&#xa;•    Timing request are a key consideration when attempting to maximize performance." style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;labelBackgroundColor=default;" parent="ELn9--_oTHY5DJMmRH25-9" vertex="1">
+          <mxGeometry y="74" width="520" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="ELn9--_oTHY5DJMmRH25-13" value="Safety &#xa;Ch 10" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-690" y="810" width="490" height="160" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ELn9--_oTHY5DJMmRH25-14" value="Name" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ELn9--_oTHY5DJMmRH25-13" vertex="1">
+          <mxGeometry y="40" width="490" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ELn9--_oTHY5DJMmRH25-15" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="ELn9--_oTHY5DJMmRH25-13" vertex="1">
+          <mxGeometry y="66" width="490" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="ELn9--_oTHY5DJMmRH25-16" value="•    Software is always connected to the outside world.&#xa;•    Four tactics for safety: Unsafe state avoidance, Unsafe state detection, Containment, Recovery&#xa;•    Safety is concerned with a system’s ability to avoid entering unsafe states that cause or lead to damage, injury, or loss of life.&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" parent="ELn9--_oTHY5DJMmRH25-13" vertex="1">
+          <mxGeometry y="74" width="490" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="ELn9--_oTHY5DJMmRH25-17" value="Usability&#xa;Ch 13&#xa;" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-30" y="315" width="500" height="220" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ELn9--_oTHY5DJMmRH25-18" value="Name" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ELn9--_oTHY5DJMmRH25-17" vertex="1">
+          <mxGeometry y="40" width="500" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ELn9--_oTHY5DJMmRH25-19" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="ELn9--_oTHY5DJMmRH25-17" vertex="1">
+          <mxGeometry y="66" width="500" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="ELn9--_oTHY5DJMmRH25-20" value="•    Usability comprises the following areas: learning system, using a system efficiently, minimizing the impact of user errors, adapting the system to user needs, increasing confidence and satisfaction.&#xa;•    Two general tactics support user initiative, and support system initiative. Support user initiative supports the user in either correcting errors or being more efficient. Support system initiative helps the system to identify models to predict its own or users’ behaviour.&#xa;•    Patterns primarily promote usability by promoting separation of concerns, which in turn makes it easy to iterate the design of a user interface.&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" parent="ELn9--_oTHY5DJMmRH25-17" vertex="1">
+          <mxGeometry y="74" width="500" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="ELn9--_oTHY5DJMmRH25-21" value="ASRs &#xa;Ch19" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=43;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="810" y="700" width="500" height="230" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ELn9--_oTHY5DJMmRH25-22" value="Name" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ELn9--_oTHY5DJMmRH25-21" vertex="1">
+          <mxGeometry y="43" width="500" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ELn9--_oTHY5DJMmRH25-23" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="ELn9--_oTHY5DJMmRH25-21" vertex="1">
+          <mxGeometry y="69" width="500" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="ELn9--_oTHY5DJMmRH25-24" value="-    ASRs are usually QAs such as performance, safety, modifability, ...&#xa;-    No architect waits until all requirements are found. The architect begins while requirements are still in flux.&#xa;-    Useful requirements are the requirements that are testable.&#xa;-    ASRs are strongly related to business needs and values through quality attributes.&#xa;-    ASRs can be found through a quality attribute workshop&#xa;-    Without stakeholder input, an architect can build a utility tree on their current understanding of QA-related ASRs&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" parent="ELn9--_oTHY5DJMmRH25-21" vertex="1">
+          <mxGeometry y="77" width="500" height="153" as="geometry" />
+        </mxCell>
+        <mxCell id="ELn9--_oTHY5DJMmRH25-25" value="Design &#xa;Ch 20" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="790" y="315" width="500" height="270" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ELn9--_oTHY5DJMmRH25-26" value="Name" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ELn9--_oTHY5DJMmRH25-25" vertex="1">
+          <mxGeometry y="40" width="500" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ELn9--_oTHY5DJMmRH25-27" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="ELn9--_oTHY5DJMmRH25-25" vertex="1">
+          <mxGeometry y="66" width="500" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="ELn9--_oTHY5DJMmRH25-28" value="•    A methodology known as ADD (attribute driven design)&#xa;•    ADD is performed in rounds. Each round produces an architecture that suits the design purpose of that round.&#xa;•    In each round, there are iterations that identity and hone in on the architecture that suits the selected drivers.&#xa;•    In each iteration, there are multiple consideration to be accounted for, such as whether or not to create a prototype.&#xa;•    Overall, The ADD methodology focus on the ASRs and other constrains and functionality to produce an architecture suited to these drivers&#xa;•    There are likely dozens of design patterns and externally developed components that you could use to address any particular issue.&#xa;•    When identifying and selecting design concepts, keep in mind the constraints that are &#xa;part of the architectural drivers, because some constraints will restrict you from selecting particular alternatives.&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" parent="ELn9--_oTHY5DJMmRH25-25" vertex="1">
+          <mxGeometry y="74" width="500" height="196" as="geometry" />
+        </mxCell>
+        <mxCell id="ELn9--_oTHY5DJMmRH25-29" value="What is Software Architecture&#xa;Ch 1&#xa;" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="180" y="-70" width="160" height="138" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ELn9--_oTHY5DJMmRH25-30" value="Name" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ELn9--_oTHY5DJMmRH25-29" vertex="1">
+          <mxGeometry y="40" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ELn9--_oTHY5DJMmRH25-31" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="ELn9--_oTHY5DJMmRH25-29" vertex="1">
+          <mxGeometry y="66" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="ELn9--_oTHY5DJMmRH25-32" value="Purchase Parking Pass" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ELn9--_oTHY5DJMmRH25-29" vertex="1">
+          <mxGeometry y="74" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ELn9--_oTHY5DJMmRH25-33" value="Why is Software Architecture Important&#xa;Ch 2&#xa;" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="400" y="-70" width="220" height="138" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ELn9--_oTHY5DJMmRH25-34" value="Name" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ELn9--_oTHY5DJMmRH25-33" vertex="1">
+          <mxGeometry y="40" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ELn9--_oTHY5DJMmRH25-35" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="ELn9--_oTHY5DJMmRH25-33" vertex="1">
+          <mxGeometry y="66" width="220" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="ELn9--_oTHY5DJMmRH25-36" value="Purchase Parking Pass" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ELn9--_oTHY5DJMmRH25-33" vertex="1">
+          <mxGeometry y="74" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ELn9--_oTHY5DJMmRH25-37" value="Evaluating&#xa;Ch 21" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=43;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="880" y="-90" width="460" height="320" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ELn9--_oTHY5DJMmRH25-38" value="Name" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ELn9--_oTHY5DJMmRH25-37" vertex="1">
+          <mxGeometry y="43" width="460" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ELn9--_oTHY5DJMmRH25-39" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="ELn9--_oTHY5DJMmRH25-37" vertex="1">
+          <mxGeometry y="69" width="460" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="ELn9--_oTHY5DJMmRH25-40" value="- Architectural evalutation is typically cheaper than investing resources into the architecture development&#xa;- ATAM (architectural tradeoff analysis method) is designed with evalutation of an architecture in mind. This method will flush out possible inconsistencies with stakeholder requirements&#xa;- The outputs of the ATAM method create a final report that summerizes the procedings and encapsulates business sencarios that can be use to &quot;correct&quot; the concieved architecture&#xa;- Anyone can evalute the architecture through evaluation activities&#xa;-Regardless of who evaluates, the evaluation criteria are based on architectual drivers&#xa;- Primary architectural drivers will be ASRs (architectually significant requirements)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" parent="ELn9--_oTHY5DJMmRH25-37" vertex="1">
+          <mxGeometry y="77" width="460" height="243" as="geometry" />
+        </mxCell>
+        <mxCell id="HubGlmVLbbdRwThOcGea-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.997;entryY=0.212;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HubGlmVLbbdRwThOcGea-3" target="ELn9--_oTHY5DJMmRH25-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HubGlmVLbbdRwThOcGea-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zkfFHV4jXpPFQw0GAbJ--5" target="ELn9--_oTHY5DJMmRH25-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HubGlmVLbbdRwThOcGea-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.106;exitY=0.998;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.11;entryY=-0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zkfFHV4jXpPFQw0GAbJ--5" target="ELn9--_oTHY5DJMmRH25-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="920" as="sourcePoint" />
+            <mxPoint x="90" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
